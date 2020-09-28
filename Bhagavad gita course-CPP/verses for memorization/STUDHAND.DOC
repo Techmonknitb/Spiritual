@@ -1,0 +1,248 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f130\fswiss\fcharset238\fprq2 Tahoma CE;}{\f131\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f133\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f134\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f135\fswiss\fcharset186\fprq2 Tahoma Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\cgrid \snext0 Normal;}{\s1\qc\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cgrid \sbasedon0 \snext0 heading 1;}{\s2\qc\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs20\cgrid \sbasedon0 \snext0 heading 2;}{\s3\qc\keepn\nowidctlpar\widctlpar\adjustright \b\f1\fs22\ul\cgrid \sbasedon0 \snext0 heading 3;}{\*\cs10 \additive Default Paragraph Font;}{\s15\qc\nowidctlpar\widctlpar\adjustright \b\f1\fs20\cgrid \sbasedon0 \snext15 Title;}{\s16\nowidctlpar\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext16 footnote text;}{\*\cs17 \additive \super \sbasedon10 footnote reference;}{\s18\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext18 header;}{\s19\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext19 footer;}{\s20\nowidctlpar\widctlpar\adjustright \cbpat9 \f15\fs20\cgrid \sbasedon0 \snext20 Document Map;}{\s21\nowidctlpar\widctlpar\adjustright \f1\fs22\cgrid \sbasedon0 \snext21 Body Text;}{\s22\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid \sbasedon0 \snext22 Plain Text;}{\s23\qj\nowidctlpar\widctlpar\adjustright \b\f1\fs22\cgrid \sbasedon0 \snext23 Body Text 2;}}{\*\listtable{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid63263140}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid172957253}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid199830892}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid220679909}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid268313830}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid300309419}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid316349619}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid364333581}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid383680100}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid389574336}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid554659714}{\list\listtemplateid-2145778590\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}\b\f0\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid608202463}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid629551331}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid650906418}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid661004572}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid687759931}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid695547065}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid772745888}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid773206703}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid794830452}{\list\listtemplateid2089822978\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li720\jclisttab\tx720 }{\listname ;}\listid846284882}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid863397147}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid896433720}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid913009135}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid953561760}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1007709971}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1039546861}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1047535847}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1072585983}{\list\listtemplateid2089822978\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li720\jclisttab\tx720 }{\listname ;}\listid1088501187}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1089958883}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1109590371}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1130634332}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1202211536}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1281381860}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1329403151}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat3\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1351955427}{\list\listtemplateid2089822978\listsimple{\listlevel\levelnfc3\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li720\jclisttab\tx720 }{\listname ;}\listid1354500314}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1531914509}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1547529401}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1581138447}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1602492257}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1671836337}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1686320088}{\list\listtemplateid-849702336\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01-;}{\levelnumbers;}\f0\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1695840556}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1699353755}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1710716859}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1713577236}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1747149207}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1748187275}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1811239411}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1832791534}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1895237784}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1911113978}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid2010868807}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid2045016380}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid2122186774}}{\*\listoverridetable{\listoverride\listid1039546861\listoverridecount0\ls1}{\listoverride\listid1710716859\listoverridecount0\ls2}{\listoverride\listid554659714\listoverridecount0\ls3}{\listoverride\listid687759931\listoverridecount0\ls4}{\listoverride\listid773206703\listoverridecount0\ls5}{\listoverride\listid300309419\listoverridecount0\ls6}{\listoverride\listid1832791534\listoverridecount0\ls7}{\listoverride\listid1072585983\listoverridecount0\ls8}{\listoverride\listid1911113978\listoverridecount0\ls9}{\listoverride\listid1671836337\listoverridecount0\ls10}{\listoverride\listid1713577236\listoverridecount0\ls11}{\listoverride\listid794830452\listoverridecount0\ls12}{\listoverride\listid1581138447\listoverridecount0\ls13}{\listoverride\listid63263140\listoverridecount0\ls14}{\listoverride\listid896433720\listoverridecount0\ls15}{\listoverride\listid268313830\listoverridecount0\ls16}{\listoverride\listid1281381860\listoverridecount0\ls17}{\listoverride\listid1547529401\listoverridecount0\ls18}{\listoverride\listid1202211536\listoverridecount0\ls19}{\listoverride\listid1109590371\listoverridecount0\ls20}{\listoverride\listid1329403151\listoverridecount0\ls21}{\listoverride\listid364333581\listoverridecount0\ls22}{\listoverride\listid661004572\listoverridecount0\ls23}{\listoverride\listid1811239411\listoverridecount0\ls24}{\listoverride\listid1602492257\listoverridecount0\ls25}{\listoverride\listid695547065\listoverridecount0\ls26}{\listoverride\listid1686320088\listoverridecount0\ls27}{\listoverride\listid316349619\listoverridecount0\ls28}{\listoverride\listid1130634332\listoverridecount0\ls29}{\listoverride\listid1695840556\listoverridecount0\ls30}{\listoverride\listid220679909\listoverridecount0\ls31}{\listoverride\listid2010868807\listoverridecount0\ls32}{\listoverride\listid629551331\listoverridecount0\ls33}{\listoverride\listid1007709971\listoverridecount0\ls34}{\listoverride\listid2122186774\listoverridecount0\ls35}{\listoverride\listid1748187275\listoverridecount0\ls36}{\listoverride\listid1531914509\listoverridecount0\ls37}{\listoverride\listid1895237784\listoverridecount0\ls38}{\listoverride\listid1747149207\listoverridecount0\ls39}{\listoverride\listid383680100\listoverridecount0\ls40}{\listoverride\listid389574336\listoverridecount0\ls41}{\listoverride\listid199830892\listoverridecount0\ls42}{\listoverride\listid1089958883\listoverridecount0\ls43}{\listoverride\listid650906418\listoverridecount0\ls44}{\listoverride\listid913009135\listoverridecount0\ls45}{\listoverride\listid953561760\listoverridecount0\ls46}{\listoverride\listid1699353755\listoverridecount0\ls47}{\listoverride\listid1047535847\listoverridecount0\ls48}{\listoverride\listid2045016380\listoverridecount0\ls49}{\listoverride\listid1354500314\listoverridecount0\ls50}{\listoverride\listid846284882\listoverridecount0\ls51}{\listoverride\listid608202463\listoverridecount0\ls52}{\listoverride\listid1351955427\listoverridecount0\ls53}{\listoverride\listid1088501187\listoverridecount0\ls54}{\listoverride\listid863397147\listoverridecount0\ls55}{\listoverride\listid172957253\listoverridecount0\ls56}{\listoverride\listid772745888\listoverridecount0\ls57}}{\info{\title The 8 important principles dealt by all the major religious scriptures of the world}{\author Sheetalanga Gouranga Dasa}{\operator CPD}{\creatim\yr1998\mo4\dy24\hr16\min49}{\revtim\yr1998\mo4\dy24\hr16\min49}{\printim\yr1998\mo4\dy21\hr22\min21}{\version2}{\edmins0}{\nofpages6}{\nofwords875}{\nofchars4988}{\*\company I S K C O N}{\nofcharsws6125}{\vern71}}\paperw11909\paperh16834 \widowctrl\ftnbj\aenddoc\formshade\viewkind1\viewscale75\pgbrdrhead\pgbrdrfoot \fet0\sectd \psz9\linex0\endnhere\sectdefaultcl {\header \pard\plain \s18\qc\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid {\b\f1\lang1024 {\shp{\*\shpinst\shpleft-504\shptop288\shpright8712\shpbottom288\shpfhdr1\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz0\shplid1025{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8192\dpline\dpptx0\dppty0\dpptx9216\dppty0\dpx-504\dpy288\dpxsize9216\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\b\f1 BHAGAVAD GITA COURSE
+\par }}{\footer \pard\plain \s19\qc\nowidctlpar\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid {\b\f1\lang1024 {\shp{\*\shpinst\shpleft-504\shptop186\shpright8856\shpbottom186\shpfhdr1\shpbxcolumn\shpbypara\shpwr3\shpwrk0\shpfblwtxt0\shpz1\shplid1026{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn fArrowheadsOK}{\sv 1}}}{\shprslt{\*\do\dobxcolumn\dobypara\dodhgt8193\dpline\dpptx0\dppty0\dpptx9360\dppty0\dpx-504\dpy186\dpxsize9360\dpysize0\dplinew15\dplinecor0\dplinecog0\dplinecob0}}}}{\b\f1 
+\par ISKCON College of Vedic Studies, Bangalore, India
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \qj\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\f1\fs22 
+\par 
+\par }{\b\f1\fs22 In these verses from the Bhagavad Gita that you have been chanting everyday you will find important instructions that you can practice as a student.  Read the translations carefully and list the instructions in the box provided for the purpose.
+\par                                                                           
+\par }\trowd \trgaph108\trrh1296\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4500\clvmgf\clvertalt\clbrdrt\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qc\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 Chapter Eight, Text 7
+\par 
+\par tasmat sarvesu kalesu
+\par mam anusmara yudhya ca
+\par mayy arpita-mano-buddhir
+\par mam evaisyasy asamsayah\cell }{\b\f1\fs22 Instructions:
+\par \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh2090\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4500\clvmrg\clvertalc\clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par Therefore, Arjuna, you should always think of Me in the form of Krishna and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh120 \clvertalt\cltxlrtb \cellx1540\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1476\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvmgf\clvertalc\clbrdrt\brdrs\brdrw20 \clbrdrl\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 26
+\par 
+\par patram puspam phalam to yam
+\par yo me bhakt ya prayacchati 
+\par tad aham bhakt y-upahrtam
+\par asnami prayatatmanah
+\par \cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1107\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvmrg\clvertalc\clbrdrl\brdrs\brdrw20 \clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it.\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1179\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalc\clbrdrt\brdrs\brdrw20 \clbrdrl\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 22
+\par 
+\par anan yas cintayanto mam
+\par ye janah paryupasate
+\par  tesam nit yabhi yuktanam
+\par yoga-ksemam vahamy aham\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1530\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalc\clbrdrl\brdrs\brdrw20 \clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par But those who always worship Me with exclusive devotion, meditating on My transcendental form\emdash to them I carry what they lack, and I preserve what they have.\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh120 \clvertalt\cltxlrtb \cellx2760\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1476\trkeep \clvertalt\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalt\clbrdrt\brdrs\brdrw20 \clbrdrl\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard \s22\qc\ri-78\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 34
+\par 
+\par man-mana bhava mad-bhakto
+\par mad-yaji mam namaskuru
+\par mam evaisyasi yuktvaivam
+\par atmamam mat-parayanah
+\par \cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1053\trkeep \clvertalt\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalt\clbrdrl\brdrs\brdrw20 \clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me.\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1476\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalc\clbrdrt\brdrs\brdrw20 \clbrdrl\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Four,  Text 2
+\par 
+\par evam parampara-praptam
+\par imam rajarsayo viduh
+\par sa kaleneha mahata
+\par yogo nastah parantapa
+\par \cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1647\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalc\clbrdrl\brdrs\brdrw20 \clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 This supreme science was thus received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost.\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1638\trkeep \clvertalc\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalc\clbrdrt\brdrs\brdrw20 \clbrdrl\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter 18, Text 66
+\par 
+\par sarva-dharman parityajya
+\par mam ekam saranam vraja
+\par aham tvam sarva-papebhyo
+\par moksayisyami ma sucah\cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh882\trkeep \clvertalt\clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx4365\clvertalt\clbrdrl\brdrs\brdrw20 \clbrdrb\brdrs\brdrw20 \clbrdrr\brdrs\brdrw20 \cltxlrtb \cellx8730\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.
+\par \cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\qj\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \s22\nowidctlpar\widctlpar\adjustright {\f1\fs22 
+\par 
+\par }{\b\f1\fs22 
+\par 
+\par 
+\par }\pard\plain \qj\nowidctlpar\widctlpar\adjustright \fs20\cgrid {\f1\fs22 
+\par 
+\par }{\b\f1\fs22 
+\par }\trowd \trgaph108\trrh3640\trkeep \clvertalc\cltxlrtb \cellx8730\pard\plain \s22\qc\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 Chapter Eight, Text 7
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par tasmat sarvesu kalesu
+\par mam anusmara yudhya ca
+\par mayy arpita-mano-buddhir
+\par mam evaisyasy asamsayah
+\par }\pard \s22\qj\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 
+\par Therefore, Arjuna, you should always think of Me in the form of Krishna and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.}{\b\f1\fs22 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh120 \clvertalt\cltxlrtb \cellx1540\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1476\trkeep \clvertalc\cltxlrtb \cellx8460\clvertalc\cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 26
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par patram puspam phalam to yam
+\par yo me bhakt ya prayacchati 
+\par tad aham bhakt y-upahrtam
+\par asnami prayatatmanah
+\par \cell \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1107\trkeep \clvertalc\cltxlrtb \cellx8417\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it.\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh3080\trkeep \clvertalc\cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 22
+\par 
+\par Anan yas cintayanto mam
+\par ye janah paryupasate
+\par  tesam nit yabhi yuktanam
+\par yoga-ksemam vahamy aham
+\par }\pard \s22\qj\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 
+\par But those who always worship Me with exclusive devotion, meditating on My transcendental form\emdash to them I carry what they lack, and I preserve what they have.\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh120 \clvertalt\cltxlrtb \cellx2760\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh3060\trkeep \clvertalt\cltxlrtb \cellx8730\pard \s22\qc\ri-78\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Nine, Text 34
+\par 
+\par Man-mana bhava mad-bhakto
+\par Mad-yaji mam namaskuru
+\par Mam evaisyasi yuktvaivam
+\par Atmamam mat-parayanah
+\par Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me and worship Me. Being completely absorbed in Me, surely you will come to Me.\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1476\trkeep \clvertalc\cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter Four,  Text 2
+\par 
+\par Evam parampara-praptam
+\par imam rajarsayo viduh
+\par sa kaleneha mahata
+\par yogo nastah parantapa
+\par \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh1647\trkeep \clvertalc\cltxlrtb \cellx8730\pard\plain \s22\qj\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 This supreme science was thus received through the chain of disciplic succession, and the saintly kings understood it in that way. But in course of time the succession was broken, and therefore the science as it is appears to be lost.\cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\fi720\li1440\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\trowd \trgaph108\trrh1638\trkeep \clvertalc\cltxlrtb \cellx8730\pard \s22\qc\nowidctlpar\widctlpar\intbl\adjustright {\f1\fs22 Chapter 18, Text 66
+\par 
+\par Sarva-dharman parityajya
+\par Mam ekam saranam vraja
+\par Aham tvam sarva-papebhyo
+\par Moksayisyami ma sucah
+\par \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\trowd \trgaph108\trrh882\trkeep \clvertalt\cltxlrtb \cellx8730\pard\plain \s22\nowidctlpar\widctlpar\intbl\adjustright \f2\fs20\cgrid {\f1\fs22 Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.
+\par \cell }\pard\plain \nowidctlpar\widctlpar\intbl\adjustright \fs20\cgrid {\f1\fs22 \row }\pard\plain \s22\qc\nowidctlpar\widctlpar\adjustright \f2\fs20\cgrid {\f1\fs22 
+\par TEXT 58
+\par 
+\par mac-cittah sarva-durgani
+\par mat-prasadat tarisyasi
+\par atha cet tvam ahankaran
+\par na srosyasi vinanksyasi
+\par 
+\par 
+\par 
+\par If you become conscious of Me, you will pass over all the obstacles of conditioned life by My grace. If, however, you do not work in such consciousness but act through false ego, not hearing Me, you will be lost.
+\par 
+\par 
+\par TEXT 40
+\par 
+\par nehabhikrama-naso 'sti
+\par pratyavayo na vidyate
+\par sv-alpam apy asya dharmasya
+\par trayate mahato bhayat
+\par 
+\par TRANSLATION
+\par 
+\par In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear.
+\par 
+\par 
+\par }\pard \s22\qc\fi720\nowidctlpar\widctlpar\adjustright {\f1\fs22 ya idam paramam guhyam
+\par }\pard \s22\qc\nowidctlpar\widctlpar\adjustright {\f1\fs22 mad-bhaktesv abhidhasyati
+\par bhaktim mayi param krtva
+\par mam evaisyaty asamsayah
+\par 
+\par 
+\par TRANSLATION
+\par 
+\par For one who explains this supreme secret to the devotees, pure devotional service is guaranteed, and at the end he will come back to Me.
+\par 
+\par 
+\par 
+\par 
+\par TEXT 54
+\par 
+\par brahma-bhutah prasannatma
+\par na socati na kanksati
+\par samah sarvesu bhutesu
+\par mad-bhaktim labhate param
+\par 
+\par 
+\par TRANSLATION
+\par 
+\par One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes fully joyful. He never laments or desires to have anything. He is equally disposed toward every living entity. In that state he attains pure devotional service unto Me.
+\par 
+\par TEXT 9
+\par 
+\par mac-citta mad-gata-prana
+\par bodhayantah parasparam
+\par kathayantas ca mam nityam
+\par tusyanti ca ramanti ca
+\par 
+\par 
+\par TRANSLATION
+\par 
+\par The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me.
+\par 
+\par TEXT 17
+\par 
+\par yuktahara-viharasya
+\par yukta-cestasya karmasu
+\par yukta-svapnavabodhasya
+\par yogo bhavati duhkha-ha
+\par 
+\par 
+\par He who is regulated in his habits of eating, sleeping, recreation and work can mitigate all material pains by practicing the yoga system.
+\par 
+\par 
+\par TEXT 22
+\par 
+\par yadrccha-labha-santusto
+\par dvandvatito vimatsarah
+\par samah siddhav asiddhau ca
+\par krtvapi na nibadhyate
+\par 
+\par He who is satisfied with gain which comes of its own accord, who is free from duality and does not envy, who is steady in both success and failure, is never entangled, although performing actions.
+\par }}
